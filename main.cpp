@@ -1,12 +1,10 @@
-#include <offer04.h>
+#include <offer06.h>
 
 int main()
 {
     Solution so;
-    vector<vector<int>> martix = {{1,4,7,11, 15}
-                                 ,{2,   5,  8, 12, 19}
-                                 ,{3,   6,  9, 16, 22}
-                                 ,{3,   6,  9, 16, 22}
-                                 ,{18, 21, 23, 26, 30}};
-    so.findNumberIn2DArray(martix,5);
+    ListNode * head = new ListNode(1);
+    head->next = new ListNode(2);
+    head->next->next = new ListNode(3);
+    so.reversePrint(head);
 }

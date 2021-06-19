@@ -9,4 +9,6 @@ SOURCES += \
 HEADERS += \
     Offer/offer03.h \
     Offer/offer04.h \
+    Offer/offer05.h \
+    Offer/offer06.h \
     myinclude.h
