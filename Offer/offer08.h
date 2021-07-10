@@ -1,3 +1,4 @@
+#include <myinclude.h>
 class CQueue {
 private:
     stack<int> sk1;
