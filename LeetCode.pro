@@ -11,4 +11,11 @@ HEADERS += \
     Offer/offer04.h \
     Offer/offer05.h \
     Offer/offer06.h \
+    Offer/offer07.h \
+    Offer/offer08.h \
+    Offer/offer10-I.h \
+    Offer/offer10-II.h \
+    Offer/offer11.h \
+    Offer/offer12.h \
+    Offer/offer14-I.h \
     myinclude.h
