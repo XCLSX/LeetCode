@@ -19,4 +19,5 @@ HEADERS += \
     Offer/offer12.h \
     Offer/offer14-I.h \
     Offer/offer16.h \
+    Offer/offer26.h \
     myinclude.h
