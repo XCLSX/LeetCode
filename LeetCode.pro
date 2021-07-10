@@ -7,6 +7,7 @@ SOURCES += \
         main.cpp
 
 HEADERS += \
+    Offer/offer-29.h \
     Offer/offer03.h \
     Offer/offer04.h \
     Offer/offer05.h \
